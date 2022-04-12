@@ -14,7 +14,6 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 -   Machine Learning with Scikit-learn.
 -   Deep Learning with TensorFlow, Keras.
 -   Develop Data Products with Google Cloud Platform, ML Flow, Heroku and Streamlit.
--   Data Visualization with Power BI.
   
  
 
