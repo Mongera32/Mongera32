@@ -1,7 +1,7 @@
 ## Victor Telles
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.buongermino@gmail.com)](mailto:felipe.buongermino@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-buongermino/)](https://www.linkedin.com/in/felipe-buongermino/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/victor-ferreira-da-silva-telles-a735903a/)](https://www.linkedin.com/in/felipe-buongermino/)
 
 Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passionate self learner. Enthusiastic in Data science and Data Analytics. Looking for job opportunities to work on Data Science field. Fascinated in solving problems and accepting new challenges.
 
