@@ -11,14 +11,9 @@ My research during my graduate couse was on mathematical models, and this experi
 
 ### Tech Skills
 
--   Data Analytics with Python (Pandas, Numpy, and Matplotlib) and SQL.
+-   Data Analytics with Python (Pandas, Numpy, and Matplotlib) SQL, and Apache Spark
 -   Statistics with Scipy, Seaborn and Statsmodels.
 -   Machine Learning with Scikit-learn.
 -   Deep Learning with TensorFlow, Keras.
 -   Microsoft Azure
 -   Orchestration with Apache Airflow
-
-### Recent Projects
-
--   **[Rain prediction machine](https://github.com/thamirisbrandao/rain-prediction-machine)**
-
